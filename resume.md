@@ -8,6 +8,8 @@ KUALA LUMPUR, MALAYSIA | calvinlim42+career@gmail.com
 
 Software Engineer with 6+ years of experience in application development and automation, actively pursuing a pivot into DevOps/DevSecOps. Leveraging a strong foundation in Python scripting and testing frameworks to transition into infrastructure security. Currently upskilling in CI/CD, through self-directed projects.
 
+---
+
 # TECHNICAL SKILLS
 
 **Languages**: Python, TypeScript, SQL, Java, Bash Script
@@ -17,6 +19,8 @@ Software Engineer with 6+ years of experience in application development and aut
 **Security**: OWASP Top 10 (foundational), Secrets Management (basic), SAST concepts
 
 **Cloud & Infrastructure**: AWS (EC2, S3, IAM – foundational)
+
+---
 
 # EXPERIENCE
 
@@ -58,6 +62,8 @@ _MAY 2018 - OCTOBER 2020_
 _SEPTEMBER 2017 - APRIL 2018_
 
 > - Developed simulation software using Unreal Engine, implementing control systems, physics behavior, and data integration between virtual systems and hardware consoles.
+
+---
 
 # EDUCATION
 
