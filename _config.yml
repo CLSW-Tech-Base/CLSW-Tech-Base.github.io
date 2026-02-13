@@ -5,6 +5,8 @@ remote_theme: pages-themes/minimal@v0.2.0 # 使用 GitHub 推荐的标准 Minima
 baseurl: ""
 url: "https://clsw-tech-base.github.io/"
 
+theme: jekyll-theme-minimal
+
 github_username: "Calvin Lim Seng Wah"
 linkedin_username: "Seng Wah Calvin Lim"
 
