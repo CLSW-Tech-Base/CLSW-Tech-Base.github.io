@@ -19,6 +19,19 @@ I am a Software Engineer dedicated to building efficient, automated, and secure 
 
 ---
 
+### Projects
+
+#### **[Finance Visualizer Tool](https://github.com/CLSW-Tech-Base/finance-visualizer)**
+
+_A configuration-driven CLI tool for automated financial reporting and visualization._
+
+- **Core Logic:** Developed a Python-based engine using `pandas` and `matplotlib` to parse CSV/Excel data and generate dynamic charts (Bar/Line) based on a JSON configuration file.
+- **Automation:** Integrated with **GitHub Actions** to automatically trigger report generation whenever new data is pushed, simulating a continuous reporting pipeline.
+- **DevSecOps Practices:** Implemented a security-focused CI pipeline (`flake8` for linting, `bandit` for SAST, `pip-audit` for dependency scanning) to ensure code quality and safety.
+- **Key Tech:** Python, Pandas, Matplotlib, GitHub Actions, JSON Configuration.
+
+---
+
 ### 🏃 Beyond the Terminal
 
 When I'm not automating workflows or exploring new ways to integrate security into development, you'll find me:
