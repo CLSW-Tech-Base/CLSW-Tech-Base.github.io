@@ -1,0 +1,30 @@
+title: Calvin | Software Engineer
+description: Transitioning to DevOps ➔ DevSecOps | Python & Automation Specialist
+remote_theme: pages-themes/minimal@v0.2.0 # 使用 GitHub 推荐的标准 Minimal 主题
+
+baseurl: ""
+url: "https://clsw-tech-base.github.io/"
+
+github_username: "Calvin Lim Seng Wah"
+linkedin_username: "Seng Wah Calvin Lim"
+
+header_pages:
+  - index.md
+  - resume.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - .github/
+  - .gitignore
+  - README.md
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
