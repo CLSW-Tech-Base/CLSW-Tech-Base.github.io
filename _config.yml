@@ -1,11 +1,11 @@
 title: Calvin | Software Engineer
 description: Transitioning to DevOps ➔ DevSecOps | Python & Automation Specialist
-remote_theme: pages-themes/minimal@v0.2.0 # 使用 GitHub 推荐的标准 Minimal 主题
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 baseurl: ""
 url: "https://clsw-tech-base.github.io/"
-
-theme: jekyll-theme-minimal
 
 github_username: "Calvin Lim Seng Wah"
 linkedin_username: "Seng Wah Calvin Lim"
